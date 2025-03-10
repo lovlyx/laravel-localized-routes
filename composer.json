@@ -69,7 +69,7 @@
      "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/lovlyx/laravel-uri-translator"
+            "url": "https://github.com/lovlyx/laravel-uri-translator.git"
         },
     ],
     "minimum-stability": "dev",
