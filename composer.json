@@ -71,7 +71,7 @@
             "type": "vcs",
             "url": "https://github.com/lovlyx/laravel-uri-translator"
         },
-     },
+    ],
     "minimum-stability": "dev",
     "prefer-stable": true
 }
